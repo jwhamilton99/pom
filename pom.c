@@ -6,9 +6,8 @@
 #define SLEEP_TIME 60
 
 int pomodoroTimer(int workMins, int breakMins) {
-	int currentMins, isBreak;
-	isBreak = 0;
-	currentMins = 0;
+	int isBreak = 0;
+	int currentMins = 0;
 	while(1) {
 		system("clear");
 		if(isBreak == 1) {
@@ -64,6 +63,4 @@ int main(int argc, char** argv) {
 	}
 	
 	return pomodoroTimer(workMins, breakMins);
-	
-	return 0;
 }
