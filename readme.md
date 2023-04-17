@@ -8,6 +8,6 @@ If you want something more heavy duty, check out [pomo.sh by jsspencer](https://
 
 ![screenshot 1](images/sc1.png)
 
-Made in an hour or two by [@jwhamilton_](https://www.twitter.com/jwhamilton_)
+Made in an hour or two by [Justin Hamilton](https://www.jwhamilton.co)
 
 Licensed under the [MIT License](https://mit-license.org/).
